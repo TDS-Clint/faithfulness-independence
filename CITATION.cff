@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Independence is necessary but not sufficient: a sovereign, local-hardware test of heterogeneous LLM verification for RAG faithfulness"
+authors:
+  - family-names: Nelson
+    given-names: Clint
+    affiliation: "Snake River AI LLC"
+type: software
+license: Apache-2.0
+repository-code: "https://github.com/snake-river-ai/faithfulness-independence"
+date-released: "2026-11-04"
+version: "0.1.0"
+keywords:
+  - LLM evaluation
+  - verifier independence
+  - RAG faithfulness
+  - effective sample size
+  - heterogeneous panels
+abstract: >-
+  A sovereign, local-hardware study of heterogeneous LLM verification for retrieval-augmented-generation
+  faithfulness. A model-free deterministic checker is statistically independent of an LLM judge (mean pairwise
+  error correlation ~= -0.04) yet net-negative on naturally-distributed claims; a single hardened cross-family
+  judge matches or beats the heterogeneous panel. Independence is necessary but not sufficient. Judge-panel
+  independence preregistration hash-sealed 2026-08-20. Concurrent with and independent of Kohli
+  (arXiv:2605.29800) and Kumar (Zenodo 10.5281/zenodo.22368667).
