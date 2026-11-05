@@ -1,5 +1,7 @@
 # faithfulness-independence
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23963220.svg)](https://doi.org/10.5281/zenodo.23963220)
+
 **Independence is necessary but not sufficient** — a sovereign, local-hardware test of heterogeneous LLM
 verification for RAG faithfulness.
 
